@@ -13,4 +13,4 @@ The article's emphasis on reassuring people that AI won't take their jobs is int
 
 ## comment - Kevin Park (cp3111)
 
-Thank you for the interesting read! As the use of AI is becoming more commercially available in our times, I wonder how the engineers of this generation will combat malign uses of the technology. 
+Thank you for the interesting read! As the use of AI is becoming more commercially available in our times, I wonder how the engineers of this generation will combat malign uses of the technology.
