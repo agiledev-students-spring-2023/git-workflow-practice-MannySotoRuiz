@@ -10,3 +10,7 @@ I found an interesting article on the application of AI and ML in software testi
 ## comment - Stan Gao
 
 The article's emphasis on reassuring people that AI won't take their jobs is interesting - there may be a large amount of skepticism and distrust involved when usable AI is finally around in the real world. However, the writing on how to properly integrate it into development environments with the help of management is also eye-opening. However, the discussion of using AI to deal with mundane, tedious tasks is encouraging and also helped reassure me too.
+
+## comment - Kevin Park (cp3111)
+
+Thank you for the interesting read! As the use of AI is becoming more commercially available in our times, I wonder how the engineers of this generation will combat malign uses of the technology.
